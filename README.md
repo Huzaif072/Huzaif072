@@ -95,8 +95,6 @@ I am a Software Engineering student at **Air University, Islamabad**, passionate
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huzaif072)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alih95745@gmail.com)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Huzaif072&style=for-the-badge&color=blue)
-
 </div>
 
 ---
